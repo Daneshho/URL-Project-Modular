@@ -1,0 +1,9 @@
+package com.avihang;
+
+import com.avihang.ui.Menu;
+
+public class Main {
+    public static void main(String[] args) {
+        Menu.showMainMenu();
+    }
+}
